@@ -1,0 +1,1713 @@
+Started GET "/articles" for 127.0.0.1 at 2018-10-25 09:14:58 -0500
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/favicon.ico" for 127.0.0.1 at 2018-10-25 09:15:03 -0500
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/" for 127.0.0.1 at 2018-10-25 09:15:04 -0500
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/favicon.ico" for 127.0.0.1 at 2018-10-25 09:15:08 -0500
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ bin/rails:4
+  [1m[35m (8.4ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ bin/rails:4
+  [1m[35m (37.7ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateUsers (20181023164513)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (15.6ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "password_digest" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023164513_create_users.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023164513"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateProfiles (20181023165423)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "profiles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "nombre" varchar, "sexo" varchar, "fecha" date, "foto" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_e424190865"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023165423_create_profiles.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_profiles_on_user_id" ON "profiles" ("user_id")[0m
+  ↳ db/migrate/20181023165423_create_profiles.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023165423"]]
+  ↳ bin/rails:4
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateExperiences (20181023165659)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+Started GET "/" for 127.0.0.1 at 2018-10-25 09:16:20 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/favicon.ico" for 127.0.0.1 at 2018-10-25 09:16:23 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+  
+ActiveRecord::PendingMigrationError (
+
+Migrations are pending. To resolve this issue, run:
+
+        bin/rails db:migrate RAILS_ENV=development
+
+):
+  
+activerecord (5.2.1) lib/active_record/migration.rb:579:in `check_pending!'
+activerecord (5.2.1) lib/active_record/migration.rb:556:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:28:in `block in call'
+activesupport (5.2.1) lib/active_support/callbacks.rb:98:in `run_callbacks'
+actionpack (5.2.1) lib/action_dispatch/middleware/callbacks.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:61:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateExperiences (20181023165659)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "experiences" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "pseudonimo" varchar, "foto" varchar, "experiencia" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_2d0e25b521"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_experiences_on_user_id" ON "experiences" ("user_id")[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023165659"]]
+  ↳ bin/rails:4
+  [1m[35m (20.5ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181023170045)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181023170045)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181023170045_create_entities.rb:3
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170045_create_entities.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170045"]]
+  ↳ bin/rails:4
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateCases (20181023170151)
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "cases" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "titulo" varchar, "foto" varchar, "contenido" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170151_create_cases.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170151"]]
+  ↳ bin/rails:4
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateHelps (20181023170250)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "helps" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "legislacion" varchar, "fecha" date, "sentencias" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170250_create_helps.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170250"]]
+  ↳ bin/rails:4
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateContacts (20181023171119)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateContacts (20181023171119)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "mail" varchar, "telefono" integer, "chat" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_8d2134e55e"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_contacts_on_user_id" ON "contacts" ("user_id")[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023171119"]]
+  ↳ bin/rails:4
+  [1m[35m (24.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Create (2.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-25 14:19:42.989825"], ["updated_at", "2018-10-25 14:19:42.989825"]]
+  ↳ bin/rails:4
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Started GET "/" for 127.0.0.1 at 2018-10-25 09:19:51 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (4.0ms)
+Completed 200 OK in 111ms (Views: 48.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2018-10-25 09:19:51 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/signup?username=prueba&password%20=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:21:03 -0500
+  
+SyntaxError (C:/Users/Natalia pardo/API/app/controllers/users_controller.rb:9: syntax error, unexpected ',', expecting ')'
+        params.permit (:username, :password, :password_confirmation)
+                                 ^
+C:/Users/Natalia pardo/API/app/controllers/users_controller.rb:9: syntax error, unexpected ')', expecting &. or :: or '[' or '.'):
+  
+app/controllers/users_controller.rb:9: syntax error, unexpected ',', expecting ')'
+app/controllers/users_controller.rb:9: syntax error, unexpected ')', expecting &. or :: or '[' or '.'
+Started POST "/signup?username=prueba&password%20=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:21:40 -0500
+  
+SyntaxError (C:/Users/Natalia pardo/API/app/controllers/users_controller.rb:9: syntax error, unexpected ':', expecting ')'
+        params.permit (:username :password :password_confirmation)
+                                  ^):
+  
+app/controllers/users_controller.rb:9: syntax error, unexpected ':', expecting ')'
+Started POST "/signup?username=prueba&password%20=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:22:05 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password "=>"[FILTERED]"}
+Completed 500 Internal Server Error in 12ms (ActiveRecord: 0.0ms)
+
+
+  
+LoadError (cannot load such file -- bcrypt):
+  
+app/models/user.rb:2:in `<class:User>'
+app/models/user.rb:1:in `<top (required)>'
+app/controllers/users_controller.rb:3:in `create'
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "ar_internal_metadata"."value" FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ?[0m  [["key", "environment"]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ bin/rails:4
+  [1m[35m (37.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ bin/rails:4
+  [1m[35m (10.0ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateProfiles (20181023165423)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "profiles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "nombre" varchar, "sexo" varchar, "fecha" date, "foto" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_e424190865"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023165423_create_profiles.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_profiles_on_user_id" ON "profiles" ("user_id")[0m
+  ↳ db/migrate/20181023165423_create_profiles.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023165423"]]
+  ↳ bin/rails:4
+  [1m[35m (15.6ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateExperiences (20181023165659)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "experiences" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "pseudonimo" varchar, "foto" varchar, "experiencia" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_2d0e25b521"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_experiences_on_user_id" ON "experiences" ("user_id")[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023165659"]]
+  ↳ bin/rails:4
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181023170045)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170045_create_entities.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170045"]]
+  ↳ bin/rails:4
+  [1m[35m (13.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateCases (20181023170151)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "cases" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "titulo" varchar, "foto" varchar, "contenido" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170151_create_cases.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170151"]]
+  ↳ bin/rails:4
+  [1m[35m (41.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateHelps (20181023170250)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "helps" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "legislacion" varchar, "fecha" date, "sentencias" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170250_create_helps.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170250"]]
+  ↳ bin/rails:4
+  [1m[35m (9.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateContacts (20181023171119)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "mail" varchar, "telefono" integer, "chat" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_8d2134e55e"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE  INDEX "index_contacts_on_user_id" ON "contacts" ("user_id")[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023171119"]]
+  ↳ bin/rails:4
+  [1m[35m (16.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateUsers (20181025142531)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "password_digest" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025142531_create_users.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181025142531"]]
+  ↳ bin/rails:4
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (1.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Create (2.0ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-25 14:26:17.998536"], ["updated_at", "2018-10-25 14:26:17.998536"]]
+  ↳ bin/rails:4
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Started POST "/signup?username=prueba&password%20=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:26:34 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password "=>"[FILTERED]"}
+Unpermitted parameter: :password 
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+Completed 200 OK in 62ms (Views: 0.6ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/signup?username=prueba&password%20=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:28:57 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password "=>"[FILTERED]"}
+Unpermitted parameter: :password 
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+Completed 200 OK in 16ms (Views: 0.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/signup?username=prueba&password=[FILTERED]" for 127.0.0.1 at 2018-10-25 09:29:24 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password"=>"[FILTERED]"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+  [1m[36mUser Create (0.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "prueba"], ["password_digest", "$2a$10$50KHRWO2nf3EGvgRuVP8nu4YmtNjzSDkCQAQsORditRqZfwy36M7y"], ["created_at", "2018-10-25 14:29:39.331513"], ["updated_at", "2018-10-25 14:29:39.331513"]]
+  ↳ app/controllers/users_controller.rb:3
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+Completed 200 OK in 15276ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/signup?username=prueba&password=[FILTERED]&nombre=pepito&sexo=masculino%20&fecha=16/01/1992&foto=https://drive.google.com/drive/search?q=fotos" for 127.0.0.1 at 2018-10-25 09:46:48 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password"=>"[FILTERED]", "nombre"=>"pepito", "sexo"=>"masculino ", "fecha"=>"16/01/1992", "foto"=>"https://drive.google.com/drive/search?q=fotos"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+  [1m[36mUser Create (3.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "prueba"], ["password_digest", "$2a$10$xGtOyD5E4ek0LFVkruo0c.KlZxUYCd/7xcGX4k4304Re8D7Sa64n2"], ["created_at", "2018-10-25 14:46:48.890645"], ["updated_at", "2018-10-25 14:46:48.890645"]]
+  ↳ app/controllers/users_controller.rb:3
+  [1m[35m (20.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+Unpermitted parameters: :username, :password
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Completed 200 OK in 202ms (Views: 0.7ms | ActiveRecord: 25.1ms)
+
+
+Started POST "/signup?username=prueba&password=[FILTERED]&nombre=pepito&sexo=masculino%20&fecha=16/01/1992&foto=https://drive.google.com/drive/search?q=fotos" for 127.0.0.1 at 2018-10-25 09:48:50 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"prueba", "password"=>"[FILTERED]", "nombre"=>"pepito", "sexo"=>"masculino ", "fecha"=>"16/01/1992", "foto"=>"https://drive.google.com/drive/search?q=fotos"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "prueba"], ["password_digest", "$2a$10$bXBCRmpm.Ji9Xn0uXY8Kne47S7w.yfP/nArOEjYQ98o2Q0YHmmwjC"], ["created_at", "2018-10-25 14:48:51.238801"], ["updated_at", "2018-10-25 14:48:51.238801"]]
+  ↳ app/controllers/users_controller.rb:3
+  [1m[35m (12.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:3
+Unpermitted parameters: :username, :password
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:6
+  [1m[36mProfile Create (2.0ms)[0m  [1m[32mINSERT INTO "profiles" ("nombre", "sexo", "fecha", "foto", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["nombre", "pepito"], ["sexo", "masculino "], ["fecha", "1992-01-16"], ["foto", "https://drive.google.com/drive/search?q=fotos"], ["user_id", 3], ["created_at", "2018-10-25 14:48:51.291769"], ["updated_at", "2018-10-25 14:48:51.291769"]]
+  ↳ app/controllers/users_controller.rb:6
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:6
+Completed 200 OK in 195ms (Views: 1.7ms | ActiveRecord: 29.0ms)
+
+
+  [1m[36mProfile Load (2.0ms)[0m  [1m[34mSELECT  "profiles".* FROM "profiles" LIMIT ?[0m  [["LIMIT", 11]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mCase Create (2.0ms)[0m  [1m[32mINSERT INTO "cases" ("titulo", "foto", "contenido", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["titulo", "Discriminaci\xA2n y violencia"], ["foto", "http://google.com"], ["contenido", "Prueba"], ["created_at", "2018-10-25 14:55:01.086419"], ["updated_at", "2018-10-25 14:55:01.086419"]]
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[36mCase Load (0.0ms)[0m  [1m[34mSELECT  "cases".* FROM "cases" LIMIT ?[0m  [["LIMIT", 11]]
+Started GET "/remainings/cases" for 127.0.0.1 at 2018-10-25 10:03:03 -0500
+Processing by RemainingsController#cases as */*
+  [1m[36mCase Load (0.0ms)[0m  [1m[34mSELECT  "cases".* FROM "cases" ORDER BY "cases"."id" DESC LIMIT ?[0m  [["LIMIT", 5]]
+  ↳ app/controllers/remainings_controller.rb:3
+Completed 200 OK in 30ms (Views: 1.0ms | ActiveRecord: 1.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mCase Create (2.6ms)[0m  [1m[32mINSERT INTO "cases" ("titulo", "foto", "contenido", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["titulo", "Tipos de violencia"], ["foto", "http://google.com"], ["contenido", "Prueba"], ["created_at", "2018-10-25 15:03:55.882866"], ["updated_at", "2018-10-25 15:03:55.882866"]]
+  [1m[35m (38.7ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mCase Create (2.0ms)[0m  [1m[32mINSERT INTO "cases" ("titulo", "foto", "contenido", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["titulo", "Violencia econ\xA2mica"], ["foto", "http://google.com"], ["contenido", "Prueba"], ["created_at", "2018-10-25 15:04:13.475055"], ["updated_at", "2018-10-25 15:04:13.475055"]]
+  [1m[35m (9.6ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/remainings/cases" for 127.0.0.1 at 2018-10-25 10:04:27 -0500
+Processing by RemainingsController#cases as */*
+  [1m[36mCase Load (0.0ms)[0m  [1m[34mSELECT  "cases".* FROM "cases" ORDER BY "cases"."id" DESC LIMIT ?[0m  [["LIMIT", 5]]
+  ↳ app/controllers/remainings_controller.rb:3
+Completed 200 OK in 5ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/remainings/cases" for 127.0.0.1 at 2018-10-25 10:04:40 -0500
+Processing by RemainingsController#cases as */*
+  [1m[36mCase Load (0.0ms)[0m  [1m[34mSELECT  "cases".* FROM "cases" ORDER BY "cases"."id" DESC LIMIT ?[0m  [["LIMIT", 2]]
+  ↳ app/controllers/remainings_controller.rb:3
+Completed 200 OK in 20ms (Views: 1.4ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2018-10-25 10:06:54 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/articles"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/remainings/cases" for 127.0.0.1 at 2018-10-25 10:07:01 -0500
+Processing by RemainingsController#cases as HTML
+  [1m[36mCase Load (1.0ms)[0m  [1m[34mSELECT  "cases".* FROM "cases" ORDER BY "cases"."id" DESC LIMIT ?[0m  [["LIMIT", 5]]
+  ↳ app/controllers/remainings_controller.rb:3
+Completed 200 OK in 26ms (Views: 1.8ms | ActiveRecord: 4.0ms)
+
+
+Started POST "/experiences?user_id=1&experiencia=prueba" for 127.0.0.1 at 2018-10-25 10:13:19 -0500
+  
+SyntaxError (C:/Users/Natalia pardo/API/app/controllers/experiences_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end):
+  
+app/controllers/experiences_controller.rb:10: syntax error, unexpected end-of-input, expecting keyword_end
+Started POST "/experiences?user_id=1&experiencia=prueba" for 127.0.0.1 at 2018-10-25 10:13:40 -0500
+Processing by ExperiencesController#create as */*
+  Parameters: {"user_id"=>"1", "experiencia"=>"prueba"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[36mExperience Create (1.0ms)[0m  [1m[32mINSERT INTO "experiences" ("user_id", "experiencia", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 1], ["experiencia", "prueba"], ["created_at", "2018-10-25 15:13:40.581416"], ["updated_at", "2018-10-25 15:13:40.581416"]]
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[35m (13.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/experiences_controller.rb:3
+Completed 200 OK in 167ms (Views: 1.0ms | ActiveRecord: 20.0ms)
+
+
+Started POST "/experiences?user_id=1&experiencia=prueba" for 127.0.0.1 at 2018-10-25 10:13:54 -0500
+Processing by ExperiencesController#create as */*
+  Parameters: {"user_id"=>"1", "experiencia"=>"prueba"}
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."id" = ? LIMIT ?[0m  [["id", 1], ["LIMIT", 1]]
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[36mExperience Create (1.0ms)[0m  [1m[32mINSERT INTO "experiences" ("user_id", "experiencia", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["user_id", 1], ["experiencia", "prueba"], ["created_at", "2018-10-25 15:13:54.705193"], ["updated_at", "2018-10-25 15:13:54.705193"]]
+  ↳ app/controllers/experiences_controller.rb:3
+  [1m[35m (62.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/experiences_controller.rb:3
+Completed 200 OK in 106ms (Views: 2.3ms | ActiveRecord: 64.0ms)
+
+
+Started GET "/entity" for 127.0.0.1 at 2018-10-25 10:26:22 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/entity"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/helps/entity" for 127.0.0.1 at 2018-10-25 10:28:22 -0500
+Processing by HelpsController#entity as */*
+Completed 204 No Content in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/helps/entity?entidad=Policia%20&direccion%20=Calle%2012%20No%2022%20-%2098&telefono=6266119" for 127.0.0.1 at 2018-10-25 10:32:36 -0500
+Processing by HelpsController#entity as */*
+  Parameters: {"entidad"=>"Policia ", "direccion "=>"Calle 12 No 22 - 98", "telefono"=>"6266119"}
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 7ms (Views: 2.6ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/helps/entity?entidad=Policia%20&direccion%20=Calle%2012%20No%2022%20-%2098&telefono=6266119" for 127.0.0.1 at 2018-10-25 10:33:30 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/helps/entity"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/helps/entity?entidad=Policia%20&direccion%20=Calle%2012%20No%2022%20-%2098&telefono=6266119" for 127.0.0.1 at 2018-10-25 10:33:41 -0500
+Processing by HelpsController#entity as */*
+  Parameters: {"entidad"=>"Policia ", "direccion "=>"Calle 12 No 22 - 98", "telefono"=>"6266119"}
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/helps/entity?entidad=&direccion%20=&telefono=" for 127.0.0.1 at 2018-10-25 10:34:07 -0500
+Processing by HelpsController#entity as */*
+  Parameters: {"entidad"=>"", "direccion "=>"", "telefono"=>""}
+  [1m[36mEntity Load (1.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 3ms (Views: 1.6ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/helps/entity" for 127.0.0.1 at 2018-10-25 10:34:53 -0500
+Processing by HelpsController#entity as HTML
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mEntity Create (2.0ms)[0m  [1m[32mINSERT INTO "entities" ("entidad", "direccion", "telefono", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["entidad", "Policia"], ["direccion", "www.policianacional.com.co"], ["telefono", 123], ["created_at", "2018-10-25 15:38:57.676496"], ["updated_at", "2018-10-25 15:38:57.676496"]]
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/helps/entity" for 127.0.0.1 at 2018-10-25 10:39:06 -0500
+Processing by HelpsController#entity as HTML
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 18ms (Views: 17.2ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/helps/entity?entidad=&direccion%20=&telefono=" for 127.0.0.1 at 2018-10-25 10:40:34 -0500
+Processing by HelpsController#entity as */*
+  Parameters: {"entidad"=>"", "direccion "=>"", "telefono"=>""}
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 4ms (Views: 3.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/helps/entity?entidad=&direccion%20=&telefono=" for 127.0.0.1 at 2018-10-25 10:48:10 -0500
+Processing by HelpsController#entity as */*
+  Parameters: {"entidad"=>"", "direccion "=>"", "telefono"=>""}
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 19ms (Views: 12.4ms | ActiveRecord: 2.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mEntity Create (3.2ms)[0m  [1m[32mINSERT INTO "entities" ("entidad", "direccion", "telefono", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?)[0m  [["entidad", "Policia"], ["direccion", "www.policianacional.com.co"], ["telefono", 123], ["created_at", "2018-10-25 16:07:22.776465"], ["updated_at", "2018-10-25 16:07:22.776465"]]
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025160236)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181025160236_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "latitud" float, "longitud" float, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025160236_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025160236)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181025160236_create_entities.rb:3
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "latitud" float, "longitud" float, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025160236_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025161417)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "latitud" float, "longitud" float, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025161417)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mDROP TABLE "entities"[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:4
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "latitud" float, "longitud" float, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:4
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181025161417"]]
+  ↳ bin/rails:4
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (1.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mEntity Create (2.0ms)[0m  [1m[32mINSERT INTO "entities" ("entidad", "direccion", "telefono", "latitud", "longitud", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?)[0m  [["entidad", "Policia"], ["direccion", "www.policianacional.com.co"], ["telefono", 123], ["latitud", 12.0], ["longitud", 12.0], ["created_at", "2018-10-25 16:20:31.848394"], ["updated_at", "2018-10-25 16:20:31.848394"]]
+  [1m[35m (14.0ms)[0m  [1m[36mcommit transaction[0m
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mHelp Create (2.0ms)[0m  [1m[32mINSERT INTO "helps" ("legislacion", "sentencias", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["legislacion", "Ley 1257"], ["sentencias", "772"], ["created_at", "2018-10-25 16:37:10.157865"], ["updated_at", "2018-10-25 16:37:10.157865"]]
+  [1m[35m (10.0ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 11:38:19 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by LawsController#lawsuit as */*
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 21ms (Views: 15.7ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 11:39:34 -0500
+Processing by LawsController#lawsuit as */*
+  [1m[36mEntity Load (0.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 3ms (Views: 2.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 11:40:15 -0500
+Processing by LawsController#lawsuit as */*
+  [1m[36mEntity Load (1.0ms)[0m  [1m[34mSELECT "entities".* FROM "entities"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 11:41:20 -0500
+Processing by LawsController#lawsuit as */*
+  [1m[36mHelp Load (0.0ms)[0m  [1m[34mSELECT "helps".* FROM "helps"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 18ms (Views: 12.2ms | ActiveRecord: 1.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mHelp Create (2.0ms)[0m  [1m[32mINSERT INTO "helps" ("legislacion", "sentencias", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["legislacion", "Ley ABC"], ["sentencias", "7772"], ["created_at", "2018-10-25 16:42:28.366072"], ["updated_at", "2018-10-25 16:42:28.366072"]]
+  [1m[35m (11.6ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 11:42:33 -0500
+Processing by LawsController#lawsuit as */*
+  [1m[36mHelp Load (1.0ms)[0m  [1m[34mSELECT "helps".* FROM "helps"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 1.0ms)
+
+
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" ORDER BY "users"."id" ASC LIMIT ?[0m  [["LIMIT", 1]]
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mContact Create (3.0ms)[0m  [1m[32mINSERT INTO "contacts" ("mail", "telefono", "chat", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["mail", "pepito@gmail.com"], ["telefono", 6266119], ["chat", "asdhakjsdhjkas"], ["user_id", 1], ["created_at", "2018-10-25 17:00:22.888947"], ["updated_at", "2018-10-25 17:00:22.888947"]]
+  [1m[35m (11.0ms)[0m  [1m[36mcommit transaction[0m
+Started GET "/laws/lawsuit" for 127.0.0.1 at 2018-10-25 12:06:27 -0500
+Processing by LawsController#lawsuit as HTML
+  [1m[36mHelp Load (1.0ms)[0m  [1m[34mSELECT "helps".* FROM "helps"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 21ms (Views: 13.3ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:06:55 -0500
+Processing by ContactsController#messages as HTML
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:07:06 -0500
+Processing by ContactsController#messages as HTML
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:07:24 -0500
+Processing by ContactsController#messages as HTML
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/articles" for 127.0.0.1 at 2018-10-25 12:07:30 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/articles"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:07:38 -0500
+Processing by ContactsController#messages as HTML
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:07:41 -0500
+Processing by ContactsController#messages as HTML
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:08:13 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:08:25 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:09:07 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:09:15 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:09:21 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (0.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:20:11 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:20:18 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:20:23 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  [1m[36mContact Create (2.0ms)[0m  [1m[32mINSERT INTO "contacts" ("mail", "telefono", "chat", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?)[0m  [["mail", "pepito@gmail.com"], ["telefono", 6266119], ["chat", "asdhakjsdhjkas"], ["user_id", 1], ["created_at", "2018-10-25 17:20:43.445371"], ["updated_at", "2018-10-25 17:20:43.445371"]]
+  [1m[35m (16.0ms)[0m  [1m[36mcommit transaction[0m
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:20:52 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:20:59 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:21:03 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/contacts/messages"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:22:00 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:22:05 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 1ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:22:06 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:22:07 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 1ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:22:10 -0500
+Processing by ContactsController#messages as */*
+Completed 204 No Content in 0ms (ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:24:12 -0500
+Processing by ContactsController#messages as */*
+  [1m[36mContact Load (0.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 26ms (Views: 16.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:24:17 -0500
+Processing by ContactsController#messages as */*
+  [1m[36mContact Load (1.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 1.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:24:20 -0500
+Processing by ContactsController#messages as */*
+  [1m[36mContact Load (0.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 4ms (Views: 4.0ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:24:23 -0500
+Processing by ContactsController#messages as */*
+  [1m[36mContact Load (0.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 5ms (Views: 4.3ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/contacts/messages" for 127.0.0.1 at 2018-10-25 12:24:24 -0500
+Processing by ContactsController#messages as */*
+  [1m[36mContact Load (0.0ms)[0m  [1m[34mSELECT "contacts".* FROM "contacts"[0m
+  ↳ app/controllers/concerns/Response.rb:3
+Completed 200 OK in 5ms (Views: 4.4ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/auth/login" for 127.0.0.1 at 2018-10-26 11:32:44 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by AuthenticationController#authenticate as */*
+Completed 500 Internal Server Error in 6ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant AuthenticationController::AuthenticateUser):
+  
+app/controllers/authentication_controller.rb:6:in `authenticate'
+Started POST "/auth/login?username=pruebauser&password=[FILTERED]" for 127.0.0.1 at 2018-10-26 11:47:49 -0500
+Processing by AuthenticationController#authenticate as */*
+  Parameters: {"username"=>"pruebauser", "password"=>"[FILTERED]"}
+Completed 500 Internal Server Error in 20ms (ActiveRecord: 0.0ms)
+
+
+  
+NameError (uninitialized constant AuthenticationController::AuthenticateUser):
+  
+app/controllers/authentication_controller.rb:6:in `authenticate'
+Started GET "/" for 127.0.0.1 at 2018-10-29 10:28:51 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by Rails::WelcomeController#index as HTML
+  Rendering C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/railties-5.2.1/lib/rails/templates/rails/welcome/index.html.erb (30.0ms)
+Completed 200 OK in 277ms (Views: 161.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/favicon.ico" for 127.0.0.1 at 2018-10-29 10:28:57 -0500
+  
+ActionController::RoutingError (No route matches [GET] "/favicon.ico"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/singup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg" for 127.0.0.1 at 2018-10-29 10:34:01 -0500
+  
+ActionController::RoutingError (No route matches [POST] "/singup"):
+  
+actionpack (5.2.1) lib/action_dispatch/middleware/debug_exceptions.rb:65:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/show_exceptions.rb:33:in `call'
+railties (5.2.1) lib/rails/rack/logger.rb:38:in `call_app'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `block in call'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `block in tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:28:in `tagged'
+activesupport (5.2.1) lib/active_support/tagged_logging.rb:71:in `tagged'
+railties (5.2.1) lib/rails/rack/logger.rb:26:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/remote_ip.rb:81:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/request_id.rb:27:in `call'
+rack (2.0.5) lib/rack/runtime.rb:22:in `call'
+activesupport (5.2.1) lib/active_support/cache/strategy/local_cache_middleware.rb:29:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/executor.rb:14:in `call'
+actionpack (5.2.1) lib/action_dispatch/middleware/static.rb:127:in `call'
+rack (2.0.5) lib/rack/sendfile.rb:111:in `call'
+railties (5.2.1) lib/rails/engine.rb:524:in `call'
+puma (3.12.0) lib/puma/configuration.rb:225:in `call'
+puma (3.12.0) lib/puma/server.rb:658:in `handle_request'
+puma (3.12.0) lib/puma/server.rb:472:in `process_client'
+puma (3.12.0) lib/puma/server.rb:332:in `block in run'
+puma (3.12.0) lib/puma/thread_pool.rb:133:in `block in spawn_thread'
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg" for 127.0.0.1 at 2018-10-29 10:35:26 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg"}
+Completed 422 Unprocessable Entity in 86ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg" for 127.0.0.1 at 2018-10-29 10:36:34 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (46.1ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "12345"], ["password_digest", "$2a$10$5utaXo1/V1Qn/MJ3ZOHauukAJyZmUuxDssoCvgTmaUdmoHntHLPTq"], ["created_at", "2018-10-29 15:36:57.434480"], ["updated_at", "2018-10-29 15:36:57.434480"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (95.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Completed 500 Internal Server Error in 13082ms (ActiveRecord: 146.2ms)
+
+
+  
+NoMethodError (undefined method `email' for #<User:0x378d5d8>):
+  
+app/controllers/users_controller.rb:5:in `create'
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ bin/rails:4
+  [1m[35m (93.0ms)[0m  [1m[35mCREATE TABLE "schema_migrations" ("version" varchar NOT NULL PRIMARY KEY)[0m
+  ↳ bin/rails:4
+  [1m[35m (83.9ms)[0m  [1m[35mCREATE TABLE "ar_internal_metadata" ("key" varchar NOT NULL PRIMARY KEY, "value" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateExperiences (20181023165659)
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "experiences" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "user_id" integer, "pseudonimo" varchar, "foto" varchar, "experiencia" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_2d0e25b521"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[35m (0.0ms)[0m  [1m[35mCREATE  INDEX "index_experiences_on_user_id" ON "experiences" ("user_id")[0m
+  ↳ db/migrate/20181023165659_create_experiences.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023165659"]]
+  ↳ bin/rails:4
+  [1m[35m (123.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateCases (20181023170151)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "cases" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "titulo" varchar, "foto" varchar, "contenido" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170151_create_cases.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170151"]]
+  ↳ bin/rails:4
+  [1m[35m (110.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateHelps (20181023170250)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "helps" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "legislacion" varchar, "fecha" date, "sentencias" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181023170250_create_helps.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023170250"]]
+  ↳ bin/rails:4
+  [1m[35m (115.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateContacts (20181023171119)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (3.0ms)[0m  [1m[35mCREATE TABLE "contacts" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "mail" varchar, "telefono" integer, "chat" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_8d2134e55e"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE  INDEX "index_contacts_on_user_id" ON "contacts" ("user_id")[0m
+  ↳ db/migrate/20181023171119_create_contacts.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (0.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181023171119"]]
+  ↳ bin/rails:4
+  [1m[35m (123.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateUsers (20181025142531)
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (2.0ms)[0m  [1m[35mCREATE TABLE "users" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "username" varchar, "password_digest" varchar, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025142531_create_users.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181025142531"]]
+  ↳ bin/rails:4
+  [1m[35m (121.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025161417)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[35mDROP TABLE "entities"[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[35m (0.0ms)[0m  [1m[31mrollback transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Migrating to CreateEntities (20181025161417)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT sqlite_version(*)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[35m (6.0ms)[0m  [1m[35mCREATE TABLE "entities" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "entidad" varchar, "direccion" varchar, "telefono" integer, "latitud" float, "longitud" float, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL)[0m
+  ↳ db/migrate/20181025161417_create_entities.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181025161417"]]
+  ↳ bin/rails:4
+  [1m[35m (144.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+Migrating to CreateProfiles (20181025165423)
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (4.0ms)[0m  [1m[35mCREATE TABLE "profiles" ("id" integer PRIMARY KEY AUTOINCREMENT NOT NULL, "nombre" varchar, "sexo" varchar, "fecha" date, "foto" varchar, "email" varchar, "user_id" integer, "created_at" datetime NOT NULL, "updated_at" datetime NOT NULL, CONSTRAINT "fk_rails_e424190865"
+FOREIGN KEY ("user_id")
+  REFERENCES "users" ("id")
+)[0m
+  ↳ db/migrate/20181025165423_create_profiles.rb:3
+  [1m[35m (1.0ms)[0m  [1m[35mCREATE  INDEX "index_profiles_on_user_id" ON "profiles" ("user_id")[0m
+  ↳ db/migrate/20181025165423_create_profiles.rb:3
+  [1m[36mActiveRecord::SchemaMigration Create (1.0ms)[0m  [1m[32mINSERT INTO "schema_migrations" ("version") VALUES (?)[0m  [["version", "20181025165423"]]
+  ↳ bin/rails:4
+  [1m[35m (115.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Load (1.0ms)[0m  [1m[34mSELECT  "ar_internal_metadata".* FROM "ar_internal_metadata" WHERE "ar_internal_metadata"."key" = ? LIMIT ?[0m  [["key", "environment"], ["LIMIT", 1]]
+  ↳ bin/rails:4
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ bin/rails:4
+  [1m[36mActiveRecord::InternalMetadata Create (2.7ms)[0m  [1m[32mINSERT INTO "ar_internal_metadata" ("key", "value", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["key", "environment"], ["value", "development"], ["created_at", "2018-10-29 15:41:40.298692"], ["updated_at", "2018-10-29 15:41:40.298692"]]
+  ↳ bin/rails:4
+  [1m[35m (96.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ bin/rails:4
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ bin/rails:4
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:42:35 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "12345"], ["password_digest", "$2a$10$Blg2FDXfyWVf5lq0ez.UNuZb.ML.GNjTawII9zkFbnItmQ.GYVDF6"], ["created_at", "2018-10-29 15:42:49.618199"], ["updated_at", "2018-10-29 15:42:49.618199"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (110.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Completed 500 Internal Server Error in 12783ms (ActiveRecord: 117.2ms)
+
+
+  
+NoMethodError (undefined method `email' for #<User:0x47fcc40>):
+  
+app/controllers/users_controller.rb:5:in `create'
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:43:28 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "12345"], ["password_digest", "$2a$10$ff10Ps78WHPDx8oEIU0YAudadizp..PkV6MFQiRaOLK69PQxUQZsW"], ["created_at", "2018-10-29 15:43:38.858786"], ["updated_at", "2018-10-29 15:43:38.858786"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (120.1ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password, :email
+  [1m[36mUser Load (11.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."email" IS NULL LIMIT ?[0m  [["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 462ms (ActiveRecord: 140.2ms)
+
+
+  
+ActiveRecord::StatementInvalid (SQLite3::SQLException: no such column: users.email: SELECT  "users".* FROM "users" WHERE "users"."email" IS NULL LIMIT ?):
+  
+app/auth/authenticate_user.rb:18:in `user'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:46:02 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "12345"], ["password_digest", "$2a$10$IGXaFw6d18PdrEAmDkDljueHFUnIddwD.DbfigEa/w2lorICpPoA2"], ["created_at", "2018-10-29 15:46:02.729544"], ["updated_at", "2018-10-29 15:46:02.729544"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (247.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+Completed 500 Internal Server Error in 498ms (ActiveRecord: 255.2ms)
+
+
+  
+NoMethodError (undefined method `email' for #<User:0x335f208>):
+  
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=12345&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:46:30 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"12345", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "12345"], ["password_digest", "$2a$10$Co8bd4Pk9G.QPFlLh5x3BO2ujsJOZC.zGAxIcxwglC6UekXzKlohy"], ["created_at", "2018-10-29 15:46:30.991619"], ["updated_at", "2018-10-29 15:46:30.991619"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (125.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (2.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "12345"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "12345"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 722ms (ActiveRecord: 137.2ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:9:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:48:13 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$8ZcTFlnPEciOxzTjJmIjienVdUILrYLgyNX6ZC1X0kvUW6AcZ8V62"], ["created_at", "2018-10-29 15:48:14.841075"], ["updated_at", "2018-10-29 15:48:14.841075"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (179.8ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (2.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+  [1m[36mCACHE User Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 818ms (ActiveRecord: 187.8ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:9:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:49:38 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (17.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$mBuubYloL7dFJGYqUJhMUeLaHwbAfDWpvSBZJpJmp73U4ptesDrcq"], ["created_at", "2018-10-29 15:49:39.247297"], ["updated_at", "2018-10-29 15:49:39.247297"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (173.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 787ms (ActiveRecord: 262.9ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:9:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:50:06 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (1.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (20.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$hQyFMSI.T1/gzGcLlbWq9.TRBYxmHWdmPO6pwjYN02bWfxKQ7MB.6"], ["created_at", "2018-10-29 15:50:06.668803"], ["updated_at", "2018-10-29 15:50:06.668803"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (260.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (4.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 895ms (ActiveRecord: 288.4ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:9:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:50:49 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (19.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$Hcrds3gZhs7mU/HviqmRD.PSRaIgFtotSBHL4NBI7bXGHt4ZWC.b."], ["created_at", "2018-10-29 15:50:49.821457"], ["updated_at", "2018-10-29 15:50:49.821457"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (169.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 828ms (ActiveRecord: 193.3ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:9:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:53:01 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (3.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$lKSGogrAvvyVsA7VlYpkX.../QzG.x2Df5zR7F.x0KO8kF6Lxd9XW"], ["created_at", "2018-10-29 15:53:03.364259"], ["updated_at", "2018-10-29 15:53:03.364259"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (146.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 734ms (ActiveRecord: 153.7ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:11:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:54:37 -0500
+  [1m[35m (1.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$f6n6JZZ69/rOfJAcKcZBYu2HYqdh0ca.XNQsr11glgt7/PQtg/tOK"], ["created_at", "2018-10-29 15:54:56.455646"], ["updated_at", "2018-10-29 15:54:56.455646"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (93.4ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+Completed 500 Internal Server Error in 13855ms (ActiveRecord: 100.4ms)
+
+
+  
+TypeError (no implicit conversion of nil into String):
+  
+app/lib/json_web_token.rb:13:in `encode'
+app/auth/authenticate_user.rb:9:in `call'
+app/controllers/users_controller.rb:6:in `create'
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 10:58:51 -0500
+  [1m[35m (0.0ms)[0m  [1m[34mSELECT "schema_migrations"."version" FROM "schema_migrations" ORDER BY "schema_migrations"."version" ASC[0m
+  ↳ C:/RailsInstaller/Ruby2.3.3/lib/ruby/gems/2.3.0/gems/activerecord-5.2.1/lib/active_record/log_subscriber.rb:98
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (2.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$p4amSH6Fl4Xp7H1H3TePKepSFqbD/Xy/d17nrbH9c38h5HezNlJPe"], ["created_at", "2018-10-29 15:59:04.701164"], ["updated_at", "2018-10-29 15:59:04.701164"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (139.9ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (0.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:9
+  [1m[36mProfile Create (21.0ms)[0m  [1m[32mINSERT INTO "profiles" ("nombre", "sexo", "fecha", "foto", "email", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["nombre", "juan"], ["sexo", "hombre"], ["fecha", "1994-03-15"], ["foto", "https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg"], ["email", "aaaaa@hotmail.com"], ["user_id", 11], ["created_at", "2018-10-29 15:59:05.508020"], ["updated_at", "2018-10-29 15:59:05.508020"]]
+  ↳ app/controllers/users_controller.rb:9
+  [1m[35m (213.3ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:9
+Completed 200 OK in 13301ms (Views: 1.4ms | ActiveRecord: 380.2ms)
+
+
+Started POST "/signup?username=pedro&password=[FILTERED]&nombre=juan&sexo=hombre&fecha=15/03/1994&foto=https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg&email=aaaaa@hotmail.com" for 127.0.0.1 at 2018-10-29 11:00:34 -0500
+Processing by UsersController#create as */*
+  Parameters: {"username"=>"pedro", "password"=>"[FILTERED]", "nombre"=>"juan", "sexo"=>"hombre", "fecha"=>"15/03/1994", "foto"=>"https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg", "email"=>"aaaaa@hotmail.com"}
+Unpermitted parameters: :nombre, :sexo, :fecha, :foto, :email
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+  [1m[36mUser Create (6.0ms)[0m  [1m[32mINSERT INTO "users" ("username", "password_digest", "created_at", "updated_at") VALUES (?, ?, ?, ?)[0m  [["username", "pedro"], ["password_digest", "$2a$10$uMUXluuw1OKnI57L/zCBZ.hswSpiMtFrVSRnjeiFZ4Q1oBiKGEepi"], ["created_at", "2018-10-29 16:00:44.594419"], ["updated_at", "2018-10-29 16:00:44.594419"]]
+  ↳ app/controllers/users_controller.rb:4
+  [1m[35m (140.0ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:4
+Unpermitted parameters: :username, :password
+  [1m[36mUser Load (1.0ms)[0m  [1m[34mSELECT  "users".* FROM "users" WHERE "users"."username" = ? LIMIT ?[0m  [["username", "pedro"], ["LIMIT", 1]]
+  ↳ app/auth/authenticate_user.rb:18
+  [1m[35m (0.0ms)[0m  [1m[36mbegin transaction[0m
+  ↳ app/controllers/users_controller.rb:9
+  [1m[36mProfile Create (2.0ms)[0m  [1m[32mINSERT INTO "profiles" ("nombre", "sexo", "fecha", "foto", "email", "user_id", "created_at", "updated_at") VALUES (?, ?, ?, ?, ?, ?, ?, ?)[0m  [["nombre", "juan"], ["sexo", "hombre"], ["fecha", "1994-03-15"], ["foto", "https://estaticos.elperiodico.com/resources/jpg/1/6/1502194230861.jpg"], ["email", "aaaaa@hotmail.com"], ["user_id", 12], ["created_at", "2018-10-29 16:00:44.925740"], ["updated_at", "2018-10-29 16:00:44.925740"]]
+  ↳ app/controllers/users_controller.rb:9
+  [1m[35m (121.2ms)[0m  [1m[36mcommit transaction[0m
+  ↳ app/controllers/users_controller.rb:9
+Completed 200 OK in 637ms (Views: 1.1ms | ActiveRecord: 274.2ms)
+
+
